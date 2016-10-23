@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /web/to_where.php
